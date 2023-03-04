@@ -1,2 +1,2 @@
-This is a beautiful story
+This is a beautiful story that we would use to test this operation.
 line2
